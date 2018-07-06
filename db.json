@@ -1,4 +1,4 @@
-{
+[{
 "id":1,
 "title": "A Brief History of Time",
 "author": "Stephen Hawking",
@@ -21,3 +21,4 @@
 "page_number": 224,
 "publication_date": "04-01-2007"
 }
+]
