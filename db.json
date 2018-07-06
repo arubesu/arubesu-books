@@ -1,0 +1,23 @@
+{
+"id":1,
+"title": "A Brief History of Time",
+"author": "Stephen Hawking",
+"author_id": 1,
+"customer_borrower": "",
+"borrower_id": "",
+"publisher":"Bantam",
+"page_number": 212,
+"publication_date": "09-01-1998"
+
+},
+{
+"id":2,
+"title": "Diary of a Wimpy Kid, Book 1",
+"author": "Jeff Kinney",
+"author_id": 2,
+"customer_borrower": "",
+"borrower_id": "",
+"publisher":"Amulet Books",
+"page_number": 224,
+"publication_date": "04-01-2007"
+}
